@@ -1,15 +1,15 @@
 {"users": [
   {
     "id": 0,
-    "firstName": "Jane",
-    "lastName": "Doe",
+    "time": "Jane",
+    "date": "Doe",
     "email": "jdoe@gmail.com",
     "password": "jdoe23"
   },
   {
     "id": 1,
-    "firstName": "John",
-    "lastName": "Mayer",
+    "time": "John",
+    "date": "Mayer",
     "email": "jmayer@gmail.com",
     "password": "wonderland"
   } 
